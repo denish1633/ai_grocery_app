@@ -1,0 +1,1419 @@
+{
+  "bakery_products": [
+    {
+      "name": "Croissant",
+      "price": 2.5,
+      "upc_code": "123456789001",
+      "description": "A buttery, flaky, viennoiserie pastry of Austrian origin.",
+      "on_hand": 100
+    },
+    {
+      "name": "Baguette",
+      "price": 3,
+      "upc_code": "123456789002",
+      "description": "A long, thin loaf of French bread with a crisp crust.",
+      "on_hand": 120
+    },
+    {
+      "name": "Doughnut",
+      "price": 1.5,
+      "upc_code": "123456789003",
+      "description": "A fried dough confectionery that is sweet and ring-shaped.",
+      "on_hand": 150
+    },
+    {
+      "name": "Muffin",
+      "price": 2,
+      "upc_code": "123456789004",
+      "description": "A small, cup-shaped baked product.",
+      "on_hand": 180
+    },
+    {
+      "name": "Cupcake",
+      "price": 2.25,
+      "upc_code": "123456789005",
+      "description": "A small cake designed to serve one person.",
+      "on_hand": 200
+    },
+    {
+      "name": "Pretzel",
+      "price": 1.75,
+      "upc_code": "123456789006",
+      "description": "A type of baked bread product made from dough.",
+      "on_hand": 220
+    },
+    {
+      "name": "Cinnamon Roll",
+      "price": 2.75,
+      "upc_code": "123456789007",
+      "description": "A sweet roll served commonly in Northern Europe and North America.",
+      "on_hand": 100
+    },
+    {
+      "name": "Biscuit",
+      "price": 2,
+      "upc_code": "123456789008",
+      "description": "A variety of small baked goods.",
+      "on_hand": 150
+    },
+    {
+      "name": "Bread Loaf",
+      "price": 2.5,
+      "upc_code": "123456789009",
+      "description": "A loaf of bread, typically sliced for sandwiches or toast.",
+      "on_hand": 180
+    },
+    {
+      "name": "Scone",
+      "price": 2.25,
+      "upc_code": "123456789010",
+      "description": "A small, lightly sweetened cake.",
+      "on_hand": 120
+    },
+    {
+      "name": "Danish",
+      "price": 2.75,
+      "upc_code": "123456789011",
+      "description": "A multilayered, laminated sweet pastry.",
+      "on_hand": 100
+    },
+    {
+      "name": "Focaccia",
+      "price": 3,
+      "upc_code": "123456789012",
+      "description": "A flat oven-baked Italian bread product.",
+      "on_hand": 130
+    },
+    {
+      "name": "Eclair",
+      "price": 3.25,
+      "upc_code": "123456789013",
+      "description": "An oblong pastry made with choux dough filled with a cream.",
+      "on_hand": 110
+    },
+    {
+      "name": "Pita Bread",
+      "price": 2.5,
+      "upc_code": "123456789014",
+      "description": "A soft, slightly leavened flatbread baked from wheat flour.",
+      "on_hand": 160
+    },
+    {
+      "name": "Brioche",
+      "price": 3.5,
+      "upc_code": "123456789015",
+      "description": "A highly enriched bread of French origin.",
+      "on_hand": 90
+    }
+  ],
+  "beverages": [
+    {
+      "name": "Coca Cola",
+      "price": 1.25,
+      "upc_code": "123456789001",
+      "description": "A popular carbonated soft drink.",
+      "on_hand": 200
+    },
+    {
+      "name": "Pepsi",
+      "price": 1.2,
+      "upc_code": "123456789002",
+      "description": "A widely consumed cola-flavored carbonated soft drink.",
+      "on_hand": 180
+    },
+    {
+      "name": "Sprite",
+      "price": 1.15,
+      "upc_code": "123456789003",
+      "description": "A colorless, caffeine-free, lemon and lime-flavored soft drink.",
+      "on_hand": 150
+    },
+    {
+      "name": "Fanta",
+      "price": 1.1,
+      "upc_code": "123456789004",
+      "description": "A global brand of fruit-flavored carbonated soft drinks.",
+      "on_hand": 170
+    },
+    {
+      "name": "Dr. Pepper",
+      "price": 1.3,
+      "upc_code": "123456789005",
+      "description": "A carbonated soft drink with a unique blend of 23 flavors.",
+      "on_hand": 160
+    },
+    {
+      "name": "Mountain Dew",
+      "price": 1.25,
+      "upc_code": "123456789006",
+      "description": "A citrus-flavored carbonated soft drink.",
+      "on_hand": 190
+    },
+    {
+      "name": "7 Up",
+      "price": 1.2,
+      "upc_code": "123456789007",
+      "description": "A lemon-lime-flavored carbonated soft drink.",
+      "on_hand": 175
+    },
+    {
+      "name": "Sunkist",
+      "price": 1.25,
+      "upc_code": "123456789008",
+      "description": "An orange-flavored carbonated soft drink.",
+      "on_hand": 185
+    },
+    {
+      "name": "A&W Root Beer",
+      "price": 1.35,
+      "upc_code": "123456789009",
+      "description": "A root beer brand.",
+      "on_hand": 140
+    },
+    {
+      "name": "Barq's",
+      "price": 1.15,
+      "upc_code": "123456789010",
+      "description": "A root beer brand with caffeine.",
+      "on_hand": 155
+    },
+    {
+      "name": "Mug Root Beer",
+      "price": 1.2,
+      "upc_code": "123456789011",
+      "description": "A brand of root beer.",
+      "on_hand": 165
+    },
+    {
+      "name": "Canada Dry",
+      "price": 1.25,
+      "upc_code": "123456789012",
+      "description": "A brand of soft drinks best known for its ginger ale.",
+      "on_hand": 195
+    },
+    {
+      "name": "Schweppes",
+      "price": 1.2,
+      "upc_code": "123456789013",
+      "description": "A beverage brand that produces a range of carbonated soft drinks.",
+      "on_hand": 160
+    },
+    {
+      "name": "Mist Twst",
+      "price": 1.15,
+      "upc_code": "123456789014",
+      "description": "A lemon-lime-flavored soft drink.",
+      "on_hand": 175
+    },
+    {
+      "name": "Crush",
+      "price": 1.3,
+      "upc_code": "123456789015",
+      "description": "A brand of carbonated soft drinks owned and marketed internationally.",
+      "on_hand": 185
+    }
+  ],
+  "pet_care": [
+    {
+      "name": "Dry Dog Food",
+      "price": 15,
+      "upc_code": "123456789501",
+      "description": "A complete and balanced meal for dogs.",
+      "on_hand": 100
+    },
+    {
+      "name": "Wet Cat Food",
+      "price": 2,
+      "upc_code": "123456789502",
+      "description": "Moist cat food typically packaged in cans or pouches.",
+      "on_hand": 120
+    },
+    {
+      "name": "Cat Litter",
+      "price": 10,
+      "upc_code": "123456789503",
+      "description": "A granular material used in a litter box to absorb moisture and odor.",
+      "on_hand": 150
+    },
+    {
+      "name": "Dog Treats",
+      "price": 5,
+      "upc_code": "123456789504",
+      "description": "Biscuits, bones, and other chewy snacks for dogs.",
+      "on_hand": 130
+    },
+    {
+      "name": "Bird Seed",
+      "price": 3,
+      "upc_code": "123456789505",
+      "description": "Food for pet birds, often including a variety of seeds.",
+      "on_hand": 160
+    },
+    {
+      "name": "Fish Food",
+      "price": 2.5,
+      "upc_code": "123456789506",
+      "description": "Food for pet fish, available in various forms such as flakes, pellets, or granules.",
+      "on_hand": 140
+    },
+    {
+      "name": "Small Animal Bedding",
+      "price": 8,
+      "upc_code": "123456789507",
+      "description": "Bedding material for small pets such as rabbits, hamsters, and guinea pigs.",
+      "on_hand": 170
+    },
+    {
+      "name": "Reptile Heat Lamp",
+      "price": 20,
+      "upc_code": "123456789508",
+      "description": "A lamp that emits heat for reptiles that require additional warmth.",
+      "on_hand": 110
+    },
+    {
+      "name": "Hamster Wheel",
+      "price": 6,
+      "upc_code": "123456789509",
+      "description": "A wheel for small animals, such as hamsters or gerbils, to exercise in.",
+      "on_hand": 180
+    },
+    {
+      "name": "Cat Toy",
+      "price": 4,
+      "upc_code": "123456789510",
+      "description": "Toys specifically designed for cats to play with.",
+      "on_hand": 120
+    },
+    {
+      "name": "Dog Leash",
+      "price": 12,
+      "upc_code": "123456789511",
+      "description": "A rope or chain used to control or lead a dog.",
+      "on_hand": 190
+    },
+    {
+      "name": "Fish Tank",
+      "price": 50,
+      "upc_code": "123456789512",
+      "description": "A transparent container for keeping fish.",
+      "on_hand": 100
+    },
+    {
+      "name": "Pet Grooming Brush",
+      "price": 7,
+      "upc_code": "123456789513",
+      "description": "A brush used for grooming the fur of pets.",
+      "on_hand": 150
+    },
+    {
+      "name": "Rabbit Hutch",
+      "price": 80,
+      "upc_code": "123456789514",
+      "description": "A shelter for rabbits, often found in gardens or yards.",
+      "on_hand": 130
+    },
+    {
+      "name": "Dog Bed",
+      "price": 25,
+      "upc_code": "123456789515",
+      "description": "A bed specifically designed for dogs to rest and sleep on.",
+      "on_hand": 160
+    }
+  ],
+  "cleaning_supplies": [
+    {
+      "name": "All-Purpose Cleaner",
+      "price": 4,
+      "upc_code": "123456789401",
+      "description": "A cleaning agent designed to remove dirt and grime from multiple surfaces.",
+      "on_hand": 100
+    },
+    {
+      "name": "Glass Cleaner",
+      "price": 3,
+      "upc_code": "123456789402",
+      "description": "A specialized cleaning agent used for cleaning and polishing glass surfaces.",
+      "on_hand": 120
+    },
+    {
+      "name": "Disinfecting Wipes",
+      "price": 3.5,
+      "upc_code": "123456789403",
+      "description": "Wipes used to kill germs and bacteria on surfaces.",
+      "on_hand": 150
+    },
+    {
+      "name": "Bleach",
+      "price": 2.5,
+      "upc_code": "123456789404",
+      "description": "A chemical compound used to whiten and disinfect laundry and surfaces.",
+      "on_hand": 130
+    },
+    {
+      "name": "Scouring Pads",
+      "price": 2,
+      "upc_code": "123456789405",
+      "description": "Pads with an abrasive surface used for cleaning and scrubbing.",
+      "on_hand": 160
+    },
+    {
+      "name": "Dish Soap",
+      "price": 1.5,
+      "upc_code": "123456789406",
+      "description": "A detergent used for cleaning dishes.",
+      "on_hand": 140
+    },
+    {
+      "name": "Toilet Bowl Cleaner",
+      "price": 3,
+      "upc_code": "123456789407",
+      "description": "A chemical substance designed to clean the toilet bowl.",
+      "on_hand": 170
+    },
+    {
+      "name": "Sponges",
+      "price": 1,
+      "upc_code": "123456789408",
+      "description": "Soft, porous, and absorbent material used for cleaning.",
+      "on_hand": 180
+    },
+    {
+      "name": "Mop",
+      "price": 10,
+      "upc_code": "123456789409",
+      "description": "A tool used for cleaning floors.",
+      "on_hand": 110
+    },
+    {
+      "name": "Broom",
+      "price": 8,
+      "upc_code": "123456789410",
+      "description": "A cleaning tool consisting of stiff fibers attached to, and roughly parallel to, a cylindrical handle, used for sweeping.",
+      "on_hand": 190
+    },
+    {
+      "name": "Dustpan",
+      "price": 5,
+      "upc_code": "123456789411",
+      "description": "A cleaning tool for collecting dust and small debris.",
+      "on_hand": 120
+    },
+    {
+      "name": "Vacuum Cleaner",
+      "price": 100,
+      "upc_code": "123456789412",
+      "description": "An electrical device used for cleaning floors and other surfaces.",
+      "on_hand": 100
+    },
+    {
+      "name": "Dust Cloth",
+      "price": 2,
+      "upc_code": "123456789413",
+      "description": "A cloth used for wiping dust from surfaces.",
+      "on_hand": 150
+    },
+    {
+      "name": "Air Freshener",
+      "price": 4,
+      "upc_code": "123456789414",
+      "description": "A product designed to mask or remove unpleasant room odors.",
+      "on_hand": 130
+    },
+    {
+      "name": "Garbage Bags",
+      "price": 6,
+      "upc_code": "123456789415",
+      "description": "Bags used to contain garbage.",
+      "on_hand": 160
+    }
+  ],
+  "personal_care": [
+    {
+      "name": "Shampoo",
+      "price": 5,
+      "upc_code": "123456789301",
+      "description": "A hair care product that is used for cleaning hair.",
+      "on_hand": 100
+    },
+    {
+      "name": "Conditioner",
+      "price": 4,
+      "upc_code": "123456789302",
+      "description": "A hair care product that is used to improve the feel, appearance, and manageability of hair.",
+      "on_hand": 120
+    },
+    {
+      "name": "Body Wash",
+      "price": 3.5,
+      "upc_code": "123456789303",
+      "description": "A liquid soap used to clean the body during bathing.",
+      "on_hand": 150
+    },
+    {
+      "name": "Face Cleanser",
+      "price": 6,
+      "upc_code": "123456789304",
+      "description": "A facial care product that is used to remove makeup, dead skin cells, oil, dirt, and other types of pollutants from the skin of the face.",
+      "on_hand": 130
+    },
+    {
+      "name": "Body Lotion",
+      "price": 4.5,
+      "upc_code": "123456789305",
+      "description": "A low-viscosity topical preparation intended for application to the body to provide essential nutrients and hydration.",
+      "on_hand": 160
+    },
+    {
+      "name": "Deodorant",
+      "price": 3,
+      "upc_code": "123456789306",
+      "description": "A substance applied to the body to prevent or mask body odor due to bacterial breakdown of perspiration in the armpits, groin, and feet.",
+      "on_hand": 140
+    },
+    {
+      "name": "Toothpaste",
+      "price": 2.5,
+      "upc_code": "123456789307",
+      "description": "A paste or gel dentifrice used with a toothbrush to clean and maintain the aesthetics and health of teeth.",
+      "on_hand": 170
+    },
+    {
+      "name": "Mouthwash",
+      "price": 3.5,
+      "upc_code": "123456789308",
+      "description": "A liquid product used to rinse the oral cavity, typically to prevent plaque and bad breath.",
+      "on_hand": 180
+    },
+    {
+      "name": "Sunscreen",
+      "price": 7,
+      "upc_code": "123456789309",
+      "description": "A lotion, spray, gel, foam (etc.) that absorbs or reflects some of the sun's ultraviolet (UV) radiation and thus helps protect against sunburn.",
+      "on_hand": 110
+    },
+    {
+      "name": "Hand Sanitizer",
+      "price": 2,
+      "upc_code": "123456789310",
+      "description": "A liquid or gel generally used to decrease infectious agents on the hands.",
+      "on_hand": 200
+    },
+    {
+      "name": "Hair Gel",
+      "price": 4,
+      "upc_code": "123456789311",
+      "description": "A hairstyling product that is used to harden hair into a particular hairstyle.",
+      "on_hand": 120
+    },
+    {
+      "name": "Feminine Hygiene Products",
+      "price": 6,
+      "upc_code": "123456789312",
+      "description": "Products used by women during menstruation, vaginal discharge, and other bodily functions related to the vagina and vulva.",
+      "on_hand": 150
+    },
+    {
+      "name": "Hand Soap",
+      "price": 2.5,
+      "upc_code": "123456789313",
+      "description": "A cleaning agent in the form of a liquid, bar, or powder, used for washing hands.",
+      "on_hand": 180
+    },
+    {
+      "name": "Lip Balm",
+      "price": 3,
+      "upc_code": "123456789314",
+      "description": "A wax-like substance applied topically to the lips to moisturize and relieve chapped or dry lips, angular cheilitis, stomatitis, or cold sores.",
+      "on_hand": 160
+    },
+    {
+      "name": "Hair Conditioner",
+      "price": 4.5,
+      "upc_code": "123456789315",
+      "description": "A hair care product that changes the texture and appearance of hair.",
+      "on_hand": 140
+    }
+  ],
+  "snacks": [
+    {
+      "name": "Potato Chips",
+      "price": 2.5,
+      "upc_code": "123456789201",
+      "description": "Thin slices of potato deep-fried until crisp.",
+      "on_hand": 200
+    },
+    {
+      "name": "Chocolate Bar",
+      "price": 1.75,
+      "upc_code": "123456789202",
+      "description": "A sweet bar made of chocolate.",
+      "on_hand": 180
+    },
+    {
+      "name": "Popcorn",
+      "price": 1.25,
+      "upc_code": "123456789203",
+      "description": "Popped corn kernels flavored with butter or other seasonings.",
+      "on_hand": 150
+    },
+    {
+      "name": "Pretzels",
+      "price": 1.5,
+      "upc_code": "123456789204",
+      "description": "A type of baked bread product made from dough.",
+      "on_hand": 180
+    },
+    {
+      "name": "Trail Mix",
+      "price": 2,
+      "upc_code": "123456789205",
+      "description": "A mixture containing nuts, seeds, and dried fruits.",
+      "on_hand": 120
+    },
+    {
+      "name": "Granola Bars",
+      "price": 2.25,
+      "upc_code": "123456789206",
+      "description": "A bar made from rolled oats, honey, and other ingredients.",
+      "on_hand": 150
+    },
+    {
+      "name": "Mixed Nuts",
+      "price": 3,
+      "upc_code": "123456789207",
+      "description": "A mixture of different types of nuts.",
+      "on_hand": 160
+    },
+    {
+      "name": "Fruit Snacks",
+      "price": 2.75,
+      "upc_code": "123456789208",
+      "description": "Fruit-flavored snacks made from fruit juice concentrates.",
+      "on_hand": 140
+    },
+    {
+      "name": "Crackers",
+      "price": 1.5,
+      "upc_code": "123456789209",
+      "description": "A baked food typically made from flour.",
+      "on_hand": 200
+    },
+    {
+      "name": "Rice Cakes",
+      "price": 2,
+      "upc_code": "123456789210",
+      "description": "A snack food made from puffed rice.",
+      "on_hand": 180
+    },
+    {
+      "name": "Fruit Leather",
+      "price": 1.75,
+      "upc_code": "123456789211",
+      "description": "A type of snack made from dried fruit pulp.",
+      "on_hand": 190
+    },
+    {
+      "name": "Cheese Puffs",
+      "price": 2.5,
+      "upc_code": "123456789212",
+      "description": "A puffed corn snack coated with a mixture of cheese or cheese-flavored powders.",
+      "on_hand": 170
+    },
+    {
+      "name": "Jerky",
+      "price": 3,
+      "upc_code": "123456789213",
+      "description": "Lean meat that has been trimmed of fat, cut into strips, and then dried.",
+      "on_hand": 150
+    },
+    {
+      "name": "Pita Chips",
+      "price": 2.25,
+      "upc_code": "123456789214",
+      "description": "A snack made from pita bread, cut into wedge-shaped pieces, and then baked until crispy.",
+      "on_hand": 160
+    },
+    {
+      "name": "Peanut Butter Cups",
+      "price": 3.5,
+      "upc_code": "123456789215",
+      "description": "A popular candy consisting of a chocolate cup filled with peanut butter.",
+      "on_hand": 140
+    }
+  ],
+  "canned_goods": [
+    {
+      "name": "Canned Tomatoes",
+      "price": 1.5,
+      "upc_code": "123456789101",
+      "description": "Whole or diced tomatoes preserved in a can.",
+      "on_hand": 200
+    },
+    {
+      "name": "Canned Corn",
+      "price": 1,
+      "upc_code": "123456789102",
+      "description": "Whole corn kernels preserved in a can.",
+      "on_hand": 180
+    },
+    {
+      "name": "Canned Beans",
+      "price": 1.25,
+      "upc_code": "123456789103",
+      "description": "A variety of beans preserved in a can.",
+      "on_hand": 150
+    },
+    {
+      "name": "Canned Tuna",
+      "price": 2,
+      "upc_code": "123456789104",
+      "description": "Tuna fish preserved in a can.",
+      "on_hand": 160
+    },
+    {
+      "name": "Canned Peaches",
+      "price": 2.5,
+      "upc_code": "123456789105",
+      "description": "Peaches preserved in a can with syrup or juice.",
+      "on_hand": 120
+    },
+    {
+      "name": "Canned Green Beans",
+      "price": 1.75,
+      "upc_code": "123456789106",
+      "description": "Green beans preserved in a can.",
+      "on_hand": 170
+    },
+    {
+      "name": "Canned Soup",
+      "price": 2.25,
+      "upc_code": "123456789107",
+      "description": "Various types of soup preserved in a can.",
+      "on_hand": 190
+    },
+    {
+      "name": "Canned Salmon",
+      "price": 3,
+      "upc_code": "123456789108",
+      "description": "Salmon fish preserved in a can.",
+      "on_hand": 140
+    },
+    {
+      "name": "Canned Pineapple",
+      "price": 2.75,
+      "upc_code": "123456789109",
+      "description": "Pineapple preserved in a can with syrup or juice.",
+      "on_hand": 130
+    },
+    {
+      "name": "Canned Peas",
+      "price": 1.5,
+      "upc_code": "123456789110",
+      "description": "Peas preserved in a can.",
+      "on_hand": 160
+    },
+    {
+      "name": "Canned Carrots",
+      "price": 1.75,
+      "upc_code": "123456789111",
+      "description": "Carrots preserved in a can.",
+      "on_hand": 150
+    },
+    {
+      "name": "Canned Chili",
+      "price": 2.5,
+      "upc_code": "123456789112",
+      "description": "Chili preserved in a can.",
+      "on_hand": 180
+    },
+    {
+      "name": "Canned Applesauce",
+      "price": 2,
+      "upc_code": "123456789113",
+      "description": "Applesauce preserved in a can.",
+      "on_hand": 170
+    },
+    {
+      "name": "Canned Olives",
+      "price": 3.5,
+      "upc_code": "123456789114",
+      "description": "Olives preserved in a can.",
+      "on_hand": 120
+    },
+    {
+      "name": "Canned Pumpkin",
+      "price": 2.75,
+      "upc_code": "123456789115",
+      "description": "Pumpkin puree preserved in a can.",
+      "on_hand": 140
+    }
+  ],
+  "dairy_products": [
+    {
+      "name": "Milk",
+      "price": 2.5,
+      "upc_code": "123456789101",
+      "description": "A nutrient-rich liquid food produced by the mammary glands of mammals.",
+      "on_hand": 100
+    },
+    {
+      "name": "Yogurt",
+      "price": 1.5,
+      "upc_code": "123456789102",
+      "description": "A fermented dairy product made by adding live bacteria to milk.",
+      "on_hand": 150
+    },
+    {
+      "name": "Cheese",
+      "price": 3,
+      "upc_code": "123456789103",
+      "description": "A dairy product made from pressed milk curds.",
+      "on_hand": 75
+    },
+    {
+      "name": "Butter",
+      "price": 2,
+      "upc_code": "123456789104",
+      "description": "A dairy product made from the fat and protein components of milk.",
+      "on_hand": 80
+    },
+    {
+      "name": "Cream",
+      "price": 2.5,
+      "upc_code": "123456789105",
+      "description": "A dairy product composed of the higher-fat layer skimmed from the top of milk.",
+      "on_hand": 200
+    },
+    {
+      "name": "Sour Cream",
+      "price": 2,
+      "upc_code": "123456789106",
+      "description": "A dairy product obtained by fermenting regular cream.",
+      "on_hand": 100
+    },
+    {
+      "name": "Cottage Cheese",
+      "price": 2.75,
+      "upc_code": "123456789107",
+      "description": "A cheese curd product with a mild flavor.",
+      "on_hand": 120
+    },
+    {
+      "name": "Whipped Cream",
+      "price": 3.5,
+      "upc_code": "123456789108",
+      "description": "A culinary colloid produced when heavy cream is subjected to mechanical aeration.",
+      "on_hand": 90
+    },
+    {
+      "name": "Condensed Milk",
+      "price": 2.75,
+      "upc_code": "123456789109",
+      "description": "Milk from which water has been removed.",
+      "on_hand": 60
+    },
+    {
+      "name": "Evaporated Milk",
+      "price": 2.5,
+      "upc_code": "123456789110",
+      "description": "Milk with 60% of the water removed.",
+      "on_hand": 50
+    },
+    {
+      "name": "Margarine",
+      "price": 3,
+      "upc_code": "123456789111",
+      "description": "An imitation butter spread.",
+      "on_hand": 100
+    },
+    {
+      "name": "Eggnog",
+      "price": 4,
+      "upc_code": "123456789112",
+      "description": "A rich, chilled, sweetened dairy-based beverage.",
+      "on_hand": 70
+    },
+    {
+      "name": "Half and Half",
+      "price": 3.25,
+      "upc_code": "123456789113",
+      "description": "A simple blend of equal parts whole milk and light cream.",
+      "on_hand": 40
+    },
+    {
+      "name": "Ricotta Cheese",
+      "price": 4.5,
+      "upc_code": "123456789114",
+      "description": "A whey cheese made from sheep, cow, goat, or Italian water buffalo milk whey.",
+      "on_hand": 60
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "price": 3,
+      "upc_code": "123456789115",
+      "description": "A traditionally southern Italian cheese made from Italian buffalo's milk.",
+      "on_hand": 80
+    }
+  ], 
+   "meat": [
+    {
+      "name": "Beef Steak",
+      "price": 10,
+      "upc_code": "123456789201",
+      "description": "A cut of beef that is tender enough for grilling or frying.",
+      "on_hand": 100
+    },
+    {
+      "name": "Chicken Breast",
+      "price": 6,
+      "upc_code": "123456789202",
+      "description": "Boneless, skinless chicken breasts suitable for various cooking methods.",
+      "on_hand": 150
+    },
+    {
+      "name": "Pork Chops",
+      "price": 8,
+      "upc_code": "123456789203",
+      "description": "A cut of pork meat that has been sliced perpendicularly to the spine.",
+      "on_hand": 75
+    },
+    {
+      "name": "Ground Beef",
+      "price": 5,
+      "upc_code": "123456789204",
+      "description": "Minced beef that is used in various dishes.",
+      "on_hand": 80
+    },
+    {
+      "name": "Lamb Chops",
+      "price": 12,
+      "upc_code": "123456789205",
+      "description": "A cut of lamb meat from the rib, loin, or shoulder.",
+      "on_hand": 90
+    },
+    {
+      "name": "Bacon",
+      "price": 7,
+      "upc_code": "123456789206",
+      "description": "Cured meat from the back or sides of a pig.",
+      "on_hand": 200
+    },
+    {
+      "name": "Ground Turkey",
+      "price": 6,
+      "upc_code": "123456789207",
+      "description": "Minced turkey meat used in a variety of recipes.",
+      "on_hand": 100
+    },
+    {
+      "name": "Sausages",
+      "price": 5,
+      "upc_code": "123456789208",
+      "description": "Seasoned meat mixture stuffed into a casing.",
+      "on_hand": 120
+    },
+    {
+      "name": "Salmon Fillet",
+      "price": 9,
+      "upc_code": "123456789209",
+      "description": "A cut of salmon without any bones.",
+      "on_hand": 60
+    },
+    {
+      "name": "Ground Pork",
+      "price": 6,
+      "upc_code": "123456789210",
+      "description": "Minced pork meat used in various dishes.",
+      "on_hand": 50
+    },
+    {
+      "name": "Turkey Breast",
+      "price": 8,
+      "upc_code": "123456789211",
+      "description": "Boneless, skinless turkey breast suitable for various cooking methods.",
+      "on_hand": 100
+    },
+    {
+      "name": "Beef Ribs",
+      "price": 11,
+      "upc_code": "123456789212",
+      "description": "Ribs cut from the seven bone beef chuck.",
+      "on_hand": 70
+    },
+    {
+      "name": "Duck Breast",
+      "price": 10,
+      "upc_code": "123456789213",
+      "description": "Boneless duck breast suitable for grilling or roasting.",
+      "on_hand": 40
+    },
+    {
+      "name": "Pork Sausage",
+      "price": 5,
+      "upc_code": "123456789214",
+      "description": "Sausages made from ground pork.",
+      "on_hand": 60
+    },
+    {
+      "name": "Ground Lamb",
+      "price": 10,
+      "upc_code": "123456789215",
+      "description": "Minced lamb meat used in various dishes.",
+      "on_hand": 80
+    }
+  ],
+  "frozen_food": [
+    {
+      "name": "Frozen Pizza",
+      "price": 8,
+      "upc_code": "123456789601",
+      "description": "A pizza that has been made and then frozen.",
+      "on_hand": 100
+    },
+    {
+      "name": "Frozen Vegetables",
+      "price": 3.5,
+      "upc_code": "123456789602",
+      "description": "Vegetables that have been flash frozen to preserve their nutrients and freshness.",
+      "on_hand": 120
+    },
+    {
+      "name": "Frozen French Fries",
+      "price": 2.5,
+      "upc_code": "123456789603",
+      "description": "Potato fries that have been frozen and can be baked or fried.",
+      "on_hand": 150
+    },
+    {
+      "name": "Frozen Burritos",
+      "price": 3,
+      "upc_code": "123456789604",
+      "description": "A type of Mexican food consisting of a flour tortilla wrapped around various ingredients.",
+      "on_hand": 130
+    },
+    {
+      "name": "Frozen Chicken Nuggets",
+      "price": 4,
+      "upc_code": "123456789605",
+      "description": "Breaded and fried chicken pieces that have been frozen.",
+      "on_hand": 160
+    },
+    {
+      "name": "Frozen Fish Fillets",
+      "price": 6,
+      "upc_code": "123456789606",
+      "description": "Fish that has been cleaned, deboned, and frozen.",
+      "on_hand": 140
+    },
+    {
+      "name": "Frozen Shrimp",
+      "price": 10,
+      "upc_code": "123456789607",
+      "description": "Shrimp that has been peeled, deveined, and frozen.",
+      "on_hand": 170
+    },
+    {
+      "name": "Frozen Pies",
+      "price": 7,
+      "upc_code": "123456789608",
+      "description": "Pies that have been assembled and then frozen.",
+      "on_hand": 110
+    },
+    {
+      "name": "Frozen Breakfast Sandwiches",
+      "price": 5,
+      "upc_code": "123456789609",
+      "description": "A breakfast sandwich that has been assembled and then frozen.",
+      "on_hand": 180
+    },
+    {
+      "name": "Frozen Fruits",
+      "price": 4,
+      "upc_code": "123456789610",
+      "description": "Fruits that have been frozen to preserve their freshness and nutrients.",
+      "on_hand": 120
+    },
+    {
+      "name": "Frozen Desserts",
+      "price": 6,
+      "upc_code": "123456789611",
+      "description": "Desserts that have been prepared and frozen.",
+      "on_hand": 190
+    },
+    {
+      "name": "Frozen Pizzas",
+      "price": 9,
+      "upc_code": "123456789612",
+      "description": "Pizzas that have been assembled and then frozen.",
+      "on_hand": 100
+    },
+    {
+      "name": "Frozen Dinners",
+      "price": 5.5,
+      "upc_code": "123456789613",
+      "description": "Pre-packaged meals that have been frozen and can be easily reheated.",
+      "on_hand": 150
+    },
+    {
+      "name": "Frozen Waffles",
+      "price": 3.5,
+      "upc_code": "123456789614",
+      "description": "Waffles that have been prepared and frozen.",
+      "on_hand": 130
+    },
+    {
+      "name": "Frozen Ice Cream",
+      "price": 4.5,
+      "upc_code": "123456789615",
+      "description": "Ice cream that has been frozen and can be scooped or served.",
+      "on_hand": 160
+    }
+  ],
+  "vegetables": [
+    {
+      "name": "Carrot",
+      "price": 0.99,
+      "plu_code": 4011,
+      "price_per_100g": 0.30,
+      "on_hand": 150
+    },
+    {
+      "name": "Broccoli",
+      "price": 1.49,
+      "plu_code": 4069,
+      "price_per_100g": 0.45,
+      "on_hand": 100
+    },
+    {
+      "name": "Spinach",
+      "price": 1.29,
+      "plu_code": 4319,
+      "price_per_100g": 0.55,
+      "on_hand": 80
+    },
+    {
+      "name": "Tomato",
+      "price": 0.79,
+      "plu_code": 4664,
+      "price_per_100g": 0.25,
+      "on_hand": 200
+    },
+    {
+      "name": "Cucumber",
+      "price": 0.89,
+      "plu_code": 4062,
+      "price_per_100g": 0.20,
+      "on_hand": 180
+    },
+    {
+      "name": "Bell Pepper",
+      "price": 1.19,
+      "plu_code": 4070,
+      "price_per_100g": 0.35,
+      "on_hand": 120
+    },
+    {
+      "name": "Onion",
+      "price": 0.69,
+      "plu_code": 4663,
+      "price_per_100g": 0.15,
+      "on_hand": 220
+    },
+    {
+      "name": "Lettuce",
+      "price": 0.99,
+      "plu_code": 4060,
+      "price_per_100g": 0.40,
+      "on_hand": 90
+    },
+    {
+      "name": "Potato",
+      "price": 0.49,
+      "plu_code": 4072,
+      "price_per_100g": 0.10,
+      "on_hand": 300
+    },
+    {
+      "name": "Zucchini",
+      "price": 1.09,
+      "plu_code": 4075,
+      "price_per_100g": 0.30,
+      "on_hand": 150
+    },
+    {
+      "name": "Cauliflower",
+      "price": 1.69,
+      "plu_code": 4071,
+      "price_per_100g": 0.40,
+      "on_hand": 100
+    },
+    {
+      "name": "Sweet Potato",
+      "price": 0.79,
+      "plu_code": 4080,
+      "price_per_100g": 0.25,
+      "on_hand": 160
+    },
+    {
+      "name": "Green Beans",
+      "price": 1.39,
+      "plu_code": 4591,
+      "price_per_100g": 0.30,
+      "on_hand": 140
+    },
+    {
+      "name": "Peas",
+      "price": 1.69,
+      "plu_code": 4530,
+      "price_per_100g": 0.35,
+      "on_hand": 120
+    },
+    {
+      "name": "Corn",
+      "price": 0.99,
+      "plu_code": 4078,
+      "price_per_100g": 0.25,
+      "on_hand": 180
+    },
+    {
+      "name": "Mushroom",
+      "price": 2.29,
+      "plu_code": 4548,
+      "price_per_100g": 0.55,
+      "on_hand": 80
+    },
+    {
+      "name": "Beetroot",
+      "price": 1.09,
+      "plu_code": 4600,
+      "price_per_100g": 0.30,
+      "on_hand": 150
+    },
+    {
+      "name": "Celery",
+      "price": 0.79,
+      "plu_code": 4078,
+      "price_per_100g": 0.20,
+      "on_hand": 200
+    },
+    {
+      "name": "Cabbage",
+      "price": 0.89,
+      "plu_code": 4639,
+      "price_per_100g": 0.25,
+      "on_hand": 180
+    },
+    {
+      "name": "Asparagus",
+      "price": 2.99,
+      "plu_code": 4087,
+      "price_per_100g": 0.70,
+      "on_hand": 60
+    },
+    {
+      "name": "Kale",
+      "price": 1.79,
+      "plu_code": 4620,
+      "price_per_100g": 0.45,
+      "on_hand": 90
+    },
+    {
+      "name": "Brussels Sprouts",
+      "price": 1.59,
+      "plu_code": 4553,
+      "price_per_100g": 0.50,
+      "on_hand": 80
+    },
+    {
+      "name": "Radish",
+      "price": 0.89,
+      "plu_code": 4076,
+      "price_per_100g": 0.20,
+      "on_hand": 180
+    },
+    {
+      "name": "Eggplant",
+      "price": 1.29,
+      "plu_code": 4079,
+      "price_per_100g": 0.40,
+      "on_hand": 100
+    },
+    {
+      "name": "Garlic",
+      "price": 0.49,
+      "plu_code": 4608,
+      "price_per_100g": 0.10,
+      "on_hand": 300
+    },
+    {
+      "name": "Pumpkin",
+      "price": 1.29,
+      "plu_code": 4583,
+      "price_per_100g": 0.30,
+      "on_hand": 140
+    },
+    {
+      "name": "Turnip",
+      "price": 0.99,
+      "plu_code": 4632,
+      "price_per_100g": 0.20,
+      "on_hand": 200
+    },
+    {
+      "name": "Swiss Chard",
+      "price": 1.59,
+      "plu_code": 4586,
+      "price_per_100g": 0.35,
+      "on_hand": 100
+    },
+    {
+      "name": "Snow Peas",
+      "price": 1.99,
+      "plu_code": 4650,
+      "price_per_100g": 0.50,
+      "on_hand": 80
+    }
+  ],
+  "fruits": [
+    {
+      "name": "Apple",
+      "price": 0.75,
+      "plu_code": 4131,
+      "price_per_100g": 0.30,
+      "on_hand": 200
+    },
+    {
+      "name": "Banana",
+      "price": 0.45,
+      "plu_code": 4011,
+      "price_per_100g": 0.15,
+      "on_hand": 300
+    },
+    {
+      "name": "Orange",
+      "price": 0.65,
+      "plu_code": 4012,
+      "price_per_100g": 0.25,
+      "on_hand": 250
+    },
+    {
+      "name": "Grapes",
+      "price": 1.99,
+      "plu_code": 4023,
+      "price_per_100g": 0.40,
+      "on_hand": 150
+    },
+    {
+      "name": "Strawberry",
+      "price": 2.49,
+      "plu_code": 4030,
+      "price_per_100g": 0.45,
+      "on_hand": 120
+    },
+    {
+      "name": "Blueberry",
+      "price": 3.99,
+      "plu_code": 4042,
+      "price_per_100g": 0.60,
+      "on_hand": 100
+    },
+    {
+      "name": "Watermelon",
+      "price": 0.99,
+      "plu_code": 4032,
+      "price_per_100g": 0.15,
+      "on_hand": 180
+    },
+    {
+      "name": "Pineapple",
+      "price": 2.79,
+      "plu_code": 4030,
+      "price_per_100g": 0.35,
+      "on_hand": 90
+    },
+    {
+      "name": "Mango",
+      "price": 1.89,
+      "plu_code": 4316,
+      "price_per_100g": 0.30,
+      "on_hand": 130
+    },
+    {
+      "name": "Pear",
+      "price": 0.85,
+      "plu_code": 4405,
+      "price_per_100g": 0.25,
+      "on_hand": 220
+    },
+    {
+      "name": "Kiwi",
+      "price": 0.75,
+      "plu_code": 4030,
+      "price_per_100g": 0.20,
+      "on_hand": 200
+    },
+    {
+      "name": "Peach",
+      "price": 1.29,
+      "plu_code": 4040,
+      "price_per_100g": 0.35,
+      "on_hand": 160
+    },
+    {
+      "name": "Plum",
+      "price": 1.09,
+      "plu_code": 4045,
+      "price_per_100g": 0.30,
+      "on_hand": 170
+    },
+    {
+      "name": "Cherry",
+      "price": 2.99,
+      "plu_code": 4046,
+      "price_per_100g": 0.50,
+      "on_hand": 110
+    },
+    {
+      "name": "Lemon",
+      "price": 0.69,
+      "plu_code": 4053,
+      "price_per_100g": 0.20,
+      "on_hand": 230
+    },
+    {
+      "name": "Lime",
+      "price": 0.79,
+      "plu_code": 4059,
+      "price_per_100g": 0.25,
+      "on_hand": 210
+    },
+    {
+      "name": "Raspberry",
+      "price": 3.29,
+      "plu_code": 4318,
+      "price_per_100g": 0.55,
+      "on_hand": 100
+    },
+    {
+      "name": "Blackberry",
+      "price": 2.79,
+      "plu_code": 4044,
+      "price_per_100g": 0.50,
+      "on_hand": 120
+    },
+    {
+      "name": "Cantaloupe",
+      "price": 1.49,
+      "plu_code": 4065,
+      "price_per_100g": 0.20,
+      "on_hand": 180
+    },
+    {
+      "name": "Apricot",
+      "price": 1.69,
+      "plu_code": 4217,
+      "price_per_100g": 0.30,
+      "on_hand": 160
+    }
+  ]
+}

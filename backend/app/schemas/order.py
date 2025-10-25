@@ -1,16 +1,18 @@
 from pydantic import BaseModel
-from datetime import datetime
+from typing import List, ClassVar
 
-class OrderBase(BaseModel):
-    user_id: int
-    total_amount: float
+class OrderItemOut(BaseModel):
+    product_id: int
+    quantity: int
 
-class OrderCreate(OrderBase):
-    pass
+    model_config: ClassVar[dict] = {"from_attributes": True}
 
-class Order(OrderBase):
+
+class OrderOut(BaseModel):
     id: int
-    created_at: datetime
+    user_id: int
+    total: float
+    status: str
+    items: List[OrderItemOut]
 
-    class Config:
-        orm_mode = True
+    model_config: ClassVar[dict] = {"from_attributes": True}

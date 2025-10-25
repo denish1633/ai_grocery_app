@@ -31,8 +31,11 @@ def get_external_products(category: str):
         products.append({
             "name": item.get("product_name"),
             "brand": item.get("brands"),
-            "categories": item.get("categories"),
             "image_url": item.get("image_front_url"),
-            "nutriments": item.get("nutriments"),
+            "code": item.get("code"),
         })
+    print(f"Fetched {len(products)} products for category '{category}':")
+    for p in products[:5]:  # print only first 5 to avoid too much output
+        print(p)
+        
     return products

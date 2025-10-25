@@ -15,8 +15,8 @@ Base.metadata.create_all(bind=session.engine)
 # register routers
 app.include_router(auth.router)
 app.include_router(products.router)
-app.include_router(cart.router)
-app.include_router(orders.router)
+app.include_router(cart.router, prefix="/api/v1")
+app.include_router(orders.router, prefix="/api/v1")
 app.include_router(external_products.router, prefix="/api/v1")
 
 

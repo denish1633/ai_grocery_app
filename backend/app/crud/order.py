@@ -1,13 +1,37 @@
 from sqlalchemy.orm import Session
-from backend.app.models import order as models
-from backend.app.schemas import order as schemas
+from backend.app.models.order import Order, OrderItem
+from backend.app.models.cart import Cart
+from backend.app.schemas import cart as cart_schemas
+from typing import List
 
-def create_order(db: Session, order: schemas.OrderCreate):
-    db_order = models.Order(**order.dict())
-    db.add(db_order)
+def create_order_from_cart(db: Session, user_id: int) -> Order | None:
+    # Fetch user's active cart
+    cart_items = db.query(Cart).filter(Cart.user_id == user_id).all()
+    if not cart_items:
+        return None
+
+    # Calculate total
+    total = sum(item.product.price * item.quantity for item in cart_items)
+
+    # Create order
+    order = Order(user_id=user_id, total=total)
+    db.add(order)
+    db.flush()  # get order.id
+
+    # Add items
+    for item in cart_items:
+        order_item = OrderItem(
+            order_id=order.id,
+            product_id=item.product_id,
+            quantity=item.quantity
+        )
+        db.add(order_item)
+        db.delete(item)  # clear cart
+
     db.commit()
-    db.refresh(db_order)
-    return db_order
+    db.refresh(order)
+    return order
 
-def get_orders(db: Session, user_id: int):
-    return db.query(models.Order).filter(models.Order.user_id == user_id).all()
+
+def get_orders_by_user(db: Session, user_id: int) -> List[Order]:
+    return db.query(Order).filter(Order.user_id == user_id).order_by(Order.created_at.desc()).all()
